@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ## Использование
 
 Для использование нужно импортировать файлы проекта в ваш проект\
-пример:\
+пример:
 
 from Ingredient import Ingredient\
 banana = Ingredient("Бананчики", 267, "г")
