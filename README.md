@@ -4,7 +4,7 @@
 ## Установка
 git clone <репозиторий>\
 cd <папка>\
-pip install -r requirements.txt\
+pip install -r requirements.txt
 
 ## Использование
 
@@ -12,7 +12,7 @@ pip install -r requirements.txt\
 пример:\
 
 from Ingredient import Ingredient\
-banana = Ingredient("Бананчики", 267, "г")\
+banana = Ingredient("Бананчики", 267, "г")
 
 ## Автор
 Лебедева Дарья Евгеньевна ББИ2503
